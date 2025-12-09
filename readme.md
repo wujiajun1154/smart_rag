@@ -1,4 +1,4 @@
-# SmartRAG · 轻量级检索增强对话系统
+# SmartRAG · 轻量级网络搜索＋rag检索增强对话系统
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![LangChain](https://img.shields.io/badge/Powered%20by-LangChain-06B6D4?logo=langchain)](https://python.langchain.com)
